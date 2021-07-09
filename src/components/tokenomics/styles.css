@@ -1,0 +1,62 @@
+.tokenContainer{
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem !important;
+    font-weight: 100;
+}
+
+.card1{
+    margin-top: 1rem;
+    background-color: #5ec9ff;
+    border-color:#5ec9ff;
+    text-align: center;
+}
+
+.card2{
+    margin-top: 1rem;
+    background-color: #78d2ff;
+    border-color:#78d2ff;
+    text-align: center;
+}
+
+.card3{
+    margin-top: 1rem;
+    background-color: #91daff;
+    border-color:#91daff;
+    text-align: center; 
+}
+
+.card4{
+    margin-top: 1rem;
+    background-color: #b8e7ff;
+    border-color:#b8e7ff;
+    text-align: center;
+}
+
+.tokenomicsTitle{
+    font-size: 4.25rem !important;
+    padding-bottom: 0.5em;
+}
+
+.cardPhoto{
+    padding: 1rem;
+    width: 176.8px;
+    height: 191px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 402px) {
+    .tokenomicsTitle{
+        font-size: 4rem !important;
+        padding-bottom: 0.5em;
+    }
+  }
+  @media only screen and (max-width: 372px) {
+    .tokenomicsTitle{
+        font-size: 3.5rem !important;
+        padding-bottom: 0.5em;
+    }
+  }

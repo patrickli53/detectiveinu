@@ -1,0 +1,21 @@
+.blueback{
+    background-color: #99ddff;
+    padding-bottom: 3rem;
+}
+
+.vertical-timeline-element--work{
+    font-family: 'Nunito', sans-serif !important;
+    font-size: 1.65rem !important;
+}
+
+.vertical-timeline-element-date{
+    color: black !important;
+}
+
+.roadmapTitle{  
+    margin-top: 5rem;
+    font-family: 'Nunito', sans-serif !important;
+    font-size: 4.25rem !important;
+    padding-bottom: 0.5em;
+    text-align: center;
+}

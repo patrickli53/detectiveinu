@@ -1,0 +1,152 @@
+.heroText{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.65rem !important;
+    padding-top: 25%
+}
+
+.heroPic{
+    margin-left:30%;
+    margin-right:35%;
+}
+
+.heroButton{
+    background-color: #4dc4ff !important;
+    border-color: #5ec9ff !important; 
+    color: black !important;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 6rem;
+    font-size: 1rem !important;
+}
+
+.heroButtonDiv{
+    padding-top: 3rem;
+}
+
+.heroContainer{
+    padding-bottom: 5rem;
+}
+
+
+@media only screen and (max-width: 1269px) {
+    .heroPic{
+        margin-left:25%;
+        margin-right:30%;
+    }
+  }
+@media only screen and (max-width: 1201px) {
+    .heroButton{
+        margin-right:1rem !important;
+        font-size: 0.81rem!important;
+    }
+    .paw{
+        margin-right:1rem !important;
+    }
+  }
+@media only screen and (max-width: 1155px) {
+    .heroPic{
+        margin-left:20%;
+        margin-right:25%;
+    }
+  }
+@media only screen and (max-width: 1103px) {
+    .heroPic{
+        margin-left:15%;
+        margin-right:20%;
+    }
+  }
+  @media only screen and (max-width: 535px) {
+    .heroPic{
+        margin-left:8%;
+        margin-right:15%;
+    }
+  }
+  @media only screen and (max-width: 503px) {
+    .heroPic{
+        margin-left:5%;
+        margin-right:10%;
+    }
+  }
+  @media only screen and (max-width: 479px) {
+    .heroPic{
+        margin-left:1%;
+        margin-right:2%;
+    }
+    .heroButton{
+        font-size: 0.71rem!important;
+    }
+  }
+  @media only screen and (max-width: 471px) {
+    .heroPic{
+       width: 360px;
+       height: 480px;
+       margin-left:10%;
+        margin-right:8%;
+    }
+  }
+  @media only screen and (max-width: 455px) {
+    .heroButton{
+        font-size: 0.65rem!important;
+    }
+  }
+  @media only screen and (max-width: 443px) {
+    .heroButton{
+        font-size: 0.6rem!important;
+    }
+  }
+  @media only screen and (max-width: 415px) {
+    .heroPic{
+       width: 360px;
+       height: 480px;
+       margin-left:6%;
+        margin-right:8%;
+    }
+    .paw{
+      margin-right:0.5rem !important;
+    }
+    .heroButton{
+      margin-right: 0.6rem!important;
+    }
+  }
+  @media only screen and (max-width: 393px) {
+    .heroPic{
+       width: 360px;
+       height: 480px;
+       margin-left:3%;
+        margin-right:8%;
+    }
+    .heroButton{
+      margin-right: 0.4rem!important;
+    }
+  }
+  @media only screen and (max-width: 379px) {
+    .heroPic{
+       width: 360px;
+       height: 480px;
+       margin-left:1%;
+       margin-right:8%;
+    }
+    .heroButton{
+      margin-right: 0.2rem!important;
+    }
+  }
+  @media only screen and (max-width: 375px) {
+    .heroPic{
+       width: 360px;
+       height: 480px;
+       margin-left:1%;
+       margin-right:8%;
+    }
+    .heroButton{
+      margin-right: 0.1rem!important;
+    }
+  }
+  @media only screen and (max-width: 370px) {
+    .heroPic{
+       width: 342px;
+       height: 456px;
+       margin-left:1%;
+       margin-right:8%;
+    }
+    
+  }
+  

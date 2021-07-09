@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-family: 'Nunito', sans-serif;
+    color: #4dc4ff !important;
+    font-size: 3.6rem !important;
+}
+.navbar{
+    background-color:white;
+}
+.navbutton{
+    background-color: #4dc4ff !important;
+    border-color: #5ec9ff !important; 
+    color: black !important;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 6rem;
+}
+
+.scroll {
+    color: black !important;
+}
+
+.scroll-title{
+    color: #4dc4ff !important;
+}
+
+@media only screen and (max-width: 541px) {
+    .navbar-brand{
+        font-family: 'Nunito', sans-serif;
+        color: #4dc4ff !important;
+        font-size: 3.2rem !important;
+    }
+  }
+@media only screen and (max-width: 500px) {
+    .navbar-brand{
+        font-family: 'Nunito', sans-serif;
+        color: #4dc4ff !important;
+        font-size: 2.9rem !important;
+    }
+  }
+
+@media only screen and (max-width: 469px) {
+    .navbar-brand{
+        font-family: 'Nunito', sans-serif;
+        color: #4dc4ff !important;
+        font-size: 2.5rem !important;
+    }
+}

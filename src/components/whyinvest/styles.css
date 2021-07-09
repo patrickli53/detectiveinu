@@ -1,0 +1,86 @@
+.blueback{
+    background-color: #99ddff;
+    padding-bottom: 3rem;
+}
+
+.whyTitle{
+    font-family: 'Nunito', sans-serif;
+    font-size: 4.25rem !important;
+    padding-top: 3rem;
+}
+
+.whyText{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.4rem !important;
+    padding-top: 5rem;
+}
+
+.whyText1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.4rem !important;
+    padding-top: 2rem;
+}
+
+.whyText2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.4rem !important;
+    padding-top: 2rem;
+    color: white;
+}
+
+.whyPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+@media only screen and (max-width: 768px) {
+    .whyTitle{
+        font-family: 'Nunito', sans-serif;
+        font-size: 4rem !important;
+        padding-top: 3rem;
+    }
+    .whyText{
+        font-size: 1rem !important;
+        padding-top: 5rem;
+    }
+    
+    .whyText1{
+        font-size: 1rem !important;
+        padding-top: 1.5rem;
+    }
+    
+    .whyText2{
+        font-size: 1rem !important;
+        padding-top: 1.5rem;
+        color: white;
+    }
+  }
+  @media only screen and (max-width: 462px) {
+    .whyTitle{
+        font-family: 'Nunito', sans-serif;
+        font-size: 3.5rem !important;
+        padding-top: 3rem;
+    }
+  }
+  @media only screen and (max-width: 410px) {
+    .whyTitle{
+        font-family: 'Nunito', sans-serif;
+        font-size: 3.25rem !important;
+        padding-top: 3rem;
+    }
+  }
+  @media only screen and (max-width: 382px) {
+    .whyTitle{
+        font-family: 'Nunito', sans-serif;
+        font-size: 3rem !important;
+        padding-top: 3rem;
+    }
+  }
+  @media only screen and (max-width: 354px) {
+    .whyTitle{
+        font-family: 'Nunito', sans-serif;
+        font-size: 2.5rem !important;
+        padding-top: 3rem;
+    }
+  }
